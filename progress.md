@@ -4,8 +4,8 @@
 
 - [x] Week 1 – Data Types
 - [x] Week 2 – Operators
-- [ ] Week 3 – Conditional Statements
-- [ ] Week 4 – Loops
+- [x] Week 3 – Strings
+- [ ] Week 4 – Loops/ Conditional Statements
 - [ ] Week 5 – Functions
 - [ ] Week 6 – Collections
 - [ ] Week 7 – OOP
