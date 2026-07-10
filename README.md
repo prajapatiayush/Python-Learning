@@ -22,8 +22,8 @@ Build a strong Python foundation for:
 
 - [x] Week 1 – Data Types
 - [x] Week 2 – Operators
-- [ ] Week 3 – Conditional Statements
-- [ ] Week 4 – Loops
+- [x] Week 3 – Strings
+- [ ] Week 4 – Loops /Conditional Statements
 - [ ] Week 5 – Functions
 - [ ] Week 6 – Collections
 - [ ] Week 7 – Object-Oriented Programming
@@ -165,5 +165,5 @@ More technologies and libraries will be added as I progress.
 
 Current Progress:
 
-- ✅ Python Basics (Week 1–2 Completed)
+- ✅ Python Basics (Week 1–3 Completed)
 - 🔄 Continuing Python Fundamentals
